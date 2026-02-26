@@ -102,6 +102,8 @@ Paste password in browser and complete setup.
 
 Developer → GitHub → Jenkins Master → Agents → Deployment
 
+<img width="750" height="916" alt="mermaid-diagram" src="https://github.com/user-attachments/assets/4bc92482-eb71-4e2a-b9f3-ff0c89172c33" />
+
 Master handles scheduling.\
 Agents execute builds.
 
