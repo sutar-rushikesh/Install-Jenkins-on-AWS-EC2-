@@ -1,4 +1,4 @@
-# 🚀 Jenkins Zero to Production
+# 🚀 How to install Jenkinson EC2
 
 ## 📌 What is Jenkins?
 
