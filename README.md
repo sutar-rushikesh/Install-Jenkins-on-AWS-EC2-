@@ -1,4 +1,4 @@
-# 🚀 How to install Jenkinson EC2
+# 🚀 How to install Jenkins on EC2
 
 ## 📌 What is Jenkins?
 
